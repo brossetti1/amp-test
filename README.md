@@ -1,0 +1,2 @@
+# amptest
+AMP page test
